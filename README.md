@@ -1,12 +1,12 @@
 # TranslateAuthors
-# --- Information ---
 authors.txtに書かれたフルネームの著者名から，論文引用形式を出力します。
-# --- Circumstances ---
+
+# Circumstances
 CUI上での実行に関するpythonの資産が増えてきたため，簡単なプログラムをpythonで処理しようと考えている。
 相変わらずpythonのインデントに慣れず，可読性の観点から1ファイル150行くらいが限界かなと思う。
 
 大学での卒業論文執筆の際，以下の生物学系の論文を引用した。
-http://dx.doi.org/10.1038/nature12111
+doi: dx.doi.org/10.1038/nature12111
 
 Google ScholarでのAPA Styleの引用が，[...]で省略されており使用できなかった。
 本学の卒論では，文中最初の引用と引用文献の際に「全員の名前を省略せずに」記載しろとある。
