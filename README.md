@@ -15,3 +15,7 @@ Google ScholarでのAPA Styleの引用が，[...]で省略されており使用�
 
 Terminal(zsh)での文字数制限により，.txtファイルを読み込む形式にした。
 パッケージ化？次からしよう。
+
+# Screenshot
+![ss1](https://github.com/YutoMizutani/TranslateAuthors/blob/master/Screenshots/screenshot0001.png "ss1")
+ 
